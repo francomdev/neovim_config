@@ -22,7 +22,7 @@ return {
   			"lua-language-server", "stylua",
   			"html-lsp", "css-lsp" , "prettier", "gopls",
         "python-lsp-server", "clangd", "docker-compose-language-service",
-        "dockerfile-language-server",
+        "dockerfile-language-server", "rust-analyzer",
   		},
   	},
   },
